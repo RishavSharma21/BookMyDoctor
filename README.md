@@ -1,25 +1,25 @@
-# 📌 BookMyDoctor
+# 📌 **BookMyDoctor**
 
-**BookMyDoctor** is an online doctor appointment booking system. It provides a RESTful API built with Node.js and Express.js, following a structured approach with in-memory data storage.
-
----
-
-## 🛠️ Features
-✔️ RESTful API for doctor appointment booking  
-✔️ CRUD operations for appointments, doctors, and patients  
-✔️ Real-time validation and error handling  
-✔️ Secure and scalable Node.js backend  
-✔️ Can be tested using **Postman** or similar API clients  
+BookMyDoctor is an **online doctor appointment booking system** that provides a **RESTful API** built with **Node.js and Express.js**. It follows a **structured approach** with in-memory data storage.
 
 ---
 
-## 🚀 Tech Stack
-- **Backend:** Node.js, Express.js  
-- **Database:** In-memory (can be extended to MongoDB/MySQL)  
+## 🛠️ **Features**
+✅ **RESTful API** for doctor appointment booking  
+✅ **CRUD operations** for appointments, doctors, and patients  
+✅ **Real-time validation** and error handling  
+✅ **Secure & scalable** Node.js backend  
+✅ **Testable via Postman** or similar API clients  
 
 ---
 
-## 📂 Project Structure
+## 🚀 **Tech Stack**
+- 🟢 **Backend:** Node.js, Express.js  
+- 🗄️ **Database:** In-memory (can be extended to MongoDB/MySQL)  
+
+---
+
+## 📂 **Project Structure**
 ```yaml
 BookMyDoctor/
 │── routes/
@@ -39,7 +39,7 @@ BookMyDoctor/
 
 
 
-### ⚡ How to Run Locally
+## ⚡ How to Run Locally
 
 | Step  | Command                                             | Description                         |
 |-------|-----------------------------------------------------|-------------------------------------|
@@ -51,7 +51,7 @@ BookMyDoctor/
 
 
 
-📢 API Endpoints
+##📢 API Endpoints
 | Method | Endpoint         | Description                 |
 |--------|----------------|-----------------------------|
 | GET    | `/doctors`      | Get all doctors            |
@@ -61,9 +61,10 @@ BookMyDoctor/
 | GET    | `/appointments` | Get all appointments       |
 | POST   | `/appointments` | Book a new appointment     |
 
-💡 Future Enhancements
-✅ Database integration (MongoDB/MySQL)
-✅ Doctor availability & appointment reminders
+##💡 Future Enhancements
+✔️ Database Integration (MongoDB/MySQL)
+✔️ Doctor Availability & Appointment Reminders
+✔️ Frontend UI for easy booking
 
-🤝 Contributing
+##🤝 Contributing
 Want to contribute? Feel free to raise an issue or submit a pull request!
