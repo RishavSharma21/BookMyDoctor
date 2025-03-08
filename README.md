@@ -1,5 +1,5 @@
 # BookMyDoctor
-=======
+
 # 📌 **BookMyDoctor**
 
 BookMyDoctor is an **online doctor appointment booking system** that provides a **RESTful API** built with **Node.js and Express.js**. It follows a **structured approach** with in-memory data storage.
@@ -34,7 +34,7 @@ BookMyDoctor is an **online doctor appointment booking system** that provides a 
 | ├── `storage.js`  | In-memory storage |
 | `public/`         | Public static files |
 | ├── `index.html`  | Frontend file |
-| `index.js`        | Main entry point |
+| `server.js`        | Main entry point |
 | `package.json`    | Project metadata & dependencies |
 | `.gitignore`      | Git ignore file |
 | `README.md`       | Documentation |
@@ -47,7 +47,7 @@ BookMyDoctor is an **online doctor appointment booking system** that provides a 
 | 1️⃣    | `git clone https://github.com/RishavSharma21/BookMyDoctor.git` | Clone the repository              |
 | 2️⃣    | `cd BookMyDoctor`                                   | Navigate into the project directory |
 | 3️⃣    | `npm install`                                      | Install dependencies               |
-| 4️⃣    | `node index.js`                                    | Start the server                   |
+| 4️⃣    | `node server.js`                                    | Start the server                   |
 | ✅    | Open `http://localhost:3000`                        | Access the app in a browser        |
 
 ---
