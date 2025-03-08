@@ -14,7 +14,7 @@ Backend: Node.js, Express.js
 Database: In-memory (can be extended to MongoDB/MySQL)
 
 
-📂 Project Structure
+## 📂 Project Structure
 BookMyDoctor/
 │── routes/
 │   ├── appointment.js
@@ -30,6 +30,7 @@ BookMyDoctor/
 │── package.json
 │── .gitignore
 │── README.md
+
 
 
 ### ⚡ How to Run Locally
