@@ -1,20 +1,26 @@
-📌 BookMyDoctor - Online Doctor Appointment Booking System
-BookMyDoctor is a web-based platform that allows patients to book appointments with doctors seamlessly. 
-Built using Node.js and Express.js, it follows a structured RESTful API approach with in-memory data storage.
+# 📌 BookMyDoctor
 
-### 🛠️ Features
+**BookMyDoctor** is an online doctor appointment booking system. It provides a RESTful API built with Node.js and Express.js, following a structured approach with in-memory data storage.
+
+---
+
+## 🛠️ Features
 ✔️ RESTful API for doctor appointment booking  
 ✔️ CRUD operations for appointments, doctors, and patients  
 ✔️ Real-time validation and error handling  
 ✔️ Secure and scalable Node.js backend  
 ✔️ Can be tested using **Postman** or similar API clients  
 
-🚀 Tech Stack
-Backend: Node.js, Express.js
-Database: In-memory (can be extended to MongoDB/MySQL)
+---
 
+## 🚀 Tech Stack
+- **Backend:** Node.js, Express.js  
+- **Database:** In-memory (can be extended to MongoDB/MySQL)  
+
+---
 
 ## 📂 Project Structure
+```yaml
 BookMyDoctor/
 │── routes/
 │   ├── appointment.js
