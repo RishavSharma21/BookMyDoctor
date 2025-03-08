@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BookMyDoctor
 =======
 # 📌 **BookMyDoctor**
@@ -85,4 +84,3 @@ This project is **open-source** and free to use.
 ### 🚀 **Happy Coding!** 👨‍💻🔥  
 
 
->>>>>>> 3641cf180d32140a501ea245ab4757b92959f14e
